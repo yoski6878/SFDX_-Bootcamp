@@ -1,0 +1,35 @@
+<apex:page controller="AccountContactController" lightningStylesheets="true">
+    <head>
+      <apex:slds />
+   </head>   
+   <!-- ADD SECTION HEADER -->  
+   <apex:sectionHeader title="VF Page with Lightning Style Sheets" subtitle="Create Account and Contact"/>  
+   <apex:form >  
+   <!-- CREATE PAGE BLOCK -->  
+     <apex:pageBlock mode="edit">  
+         <!-- SECTION TO CREATE ACCOUNT -->  
+         <apex:pageBlockSection title="Account Info" columns="2">  
+              <apex:inputField value="{!acc.Name}"></apex:inputField>  
+           <apex:inputField value="{!acc.Type}"></apex:inputField>  
+           <apex:inputField value="{!acc.ShippingStreet}"></apex:inputField>  
+           <apex:inputField value="{!acc.ShippingCity}"></apex:inputField>  
+           <apex:inputField value="{!acc.ShippingState}"></apex:inputField>  
+           <apex:inputField value="{!acc.ShippingCountry}"></apex:inputField>  
+           <apex:inputField value="{!acc.Shippingpostalcode}"></apex:inputField>  
+         </apex:pageBlockSection>  
+         <!-- SECTION TO CREATE CONTACT -->  
+         <apex:pageBlockSection title="Contact Info" columns="2">  
+              <apex:inputField value="{!con.FirstName}"></apex:inputField>  
+           <apex:inputField value="{!con.LastName}"></apex:inputField>  
+           <apex:inputField value="{!con.HomePhone}"></apex:inputField>  
+           <apex:inputField value="{!con.MobilePhone}"></apex:inputField>  
+         </apex:pageBlockSection>
+         <br/>
+         <!-- ADD BUTTONS -->    
+             <div class="slds-form-footer slds-button-group slds-align_absolute-center" role="group">  
+               <apex:commandButton value="Clear" styleClass="slds-button slds-button--neutral"/>  
+               <apex:commandButton value="Save" action="{!saveAccCont}" styleClass="slds-button slds-button--brand"/>  
+         </div> 
+     </apex:pageBlock>  
+   </apex:form>  
+ </apex:page>

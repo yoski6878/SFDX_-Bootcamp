@@ -1,0 +1,23 @@
+.THIS.bmi-wrapper {
+    background: rgb(216, 237, 255);
+    padding: 10px;
+    border-radius: 5px;
+    width: 600px;
+    margin: 20px auto;
+}
+.THIS .bmi-message {
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid grey;
+    border-radius: 25px;
+}
+
+.THIS .is-risk {
+    background-color: red;
+    font-weight: bold;
+}
+
+.THIS .no-risk {
+    background-color: rgb(1, 156, 1);
+    font-weight: bold;
+}

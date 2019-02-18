@@ -1,0 +1,37 @@
+<aura:component controller="BMIController">
+	<aura:attribute name="height" type="Decimal" />
+	<aura:attribute name="weight" type="Decimal" />
+
+    <aura:attribute name="bmi" type="Decimal" />  
+    
+    <aura:registerEvent name="showMessage" type="c:BMIComponentEvent"/>
+
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+
+
+    <div class="bmi-wrapper">
+        <div class="slds-form slds-form_stacked">
+        <div class="slds-form-element">
+            <div class="slds-form-element__control">
+                <ui:inputNumber aura:id="height"  class="slds-input" label="Height(m)" value="{!v.height}"/>
+            </div>              
+        </div> 
+        <div class="slds-form-element">
+            <div class="slds-form-element__control">
+                <ui:inputNumber aura:id="weight" class="slds-input" label="Weight(lb)" value="{!v.weight}"/>
+            </div>              
+        </div>
+        <div class="slds-form-element">
+            <div class="slds-form-element__control">
+                <lightning:button label="Calculate BMI" onclick="{!c.calculate}"/>
+            </div>
+        </div>
+        </div>
+        
+        <aura:if isTrue="{!v.bmi}">
+            <div aura:id="display" class="bmi-message">
+                Your BMI is <b>{!v.bmi}</b>
+            </div>
+        </aura:if>
+    </div>
+</aura:component>	

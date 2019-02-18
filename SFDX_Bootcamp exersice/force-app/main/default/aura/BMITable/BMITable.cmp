@@ -1,0 +1,42 @@
+<aura:component controller="BMIController">
+
+    <aura:attribute name="lstBMI" type="List" />
+
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+
+    <aura:handler event="c:BMIApplicationEvent" action="{!c.handleRecordSaved}" />
+
+    <aura:if isTrue="{! and(v.lstBMI, v.lstBMI.length) }">
+        <table class="slds-table slds-table_cell-buffer slds-table_bordered">
+            <thead>
+                <tr class="slds-line-height_reset">
+                    <th class="" scope="col">
+                        <div class="slds-truncate" title="Height">Height</div>
+                    </th>
+                    <th class="" scope="col">
+                        <div class="slds-truncate" title="Weight">Weight</div>
+                    </th>
+                    <th class="" scope="col">
+                        <div class="slds-truncate" title="BMI">BMI</div>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <aura:iteration items="{!v.lstBMI}" var="bmi">
+                    <tr class="slds-hint-parent">
+                        <td data-label="Account Name">
+                            <div class="slds-truncate" title="Cloudhub">{!bmi.Height__c}</div>
+                        </td>
+                        <td data-label="Account Name">
+                            <div class="slds-truncate" title="Cloudhub">{!bmi.Weight__c}</div>
+                        </td>
+                        <td data-label="Close Date">
+                            <div class="slds-truncate" title="4/14/2015">{!bmi.BMI__c}</div>
+                        </td>
+                    </tr>
+                </aura:iteration>
+            </tbody>
+        </table>
+    </aura:if>
+
+</aura:component>

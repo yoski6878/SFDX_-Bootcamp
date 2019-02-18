@@ -1,0 +1,22 @@
+<aura:component>
+
+    <aura:attribute name="message" type="String"/>
+    <aura:attribute name="messageTheme" type="String" default="slds-theme_info"/>
+    <aura:attribute name="height" type="Decimal"/>
+    <aura:attribute name="weight" type="Decimal" default="185"/>
+
+    <aura:handler name="showMessage" event="c:BMIComponentEvent" action="{!c.handleShowMessage}"/>
+
+    <div class="slds-scope">
+
+        <aura:if isTrue="{!v.message}">
+            <c:BMIAlert message="{!v.message}" messageTheme="{!v.messageTheme}" />
+        </aura:if>
+
+        <c:BMIForm height="{!v.height}" weight="{!v.weight}"></c:BMIForm>
+
+        <c:BMITable />
+        
+    </div>
+
+</aura:component>	
