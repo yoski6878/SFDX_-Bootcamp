@@ -1,4 +1,5 @@
 <aura:component controller="BMIController">
+    
 	<aura:attribute name="height" type="Decimal" />
 	<aura:attribute name="weight" type="Decimal" />
 
