@@ -1,0 +1,1877 @@
+[
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550509982029,
+            "changeTime": 1550509982029,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550509982029,
+            "changeTime": 1550509982029,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510111927,
+            "changeTime": 1550514433233,
+            "contentHash": "6acaa9682e04597ea1e9f32f9c80efe1dc24c53c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510045887,
+            "changeTime": 1550514433126,
+            "contentHash": "200ce9ea0e74158be14b25abfbd468e8239b4788",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510044309,
+            "changeTime": 1550514432794,
+            "contentHash": "74605289d04aa4dbbadfaf477110c082e36c115b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMI.app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMI.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 115,
+            "modifiedTime": 1550496510324,
+            "changeTime": 1550514432729,
+            "contentHash": "db4d3be42f8d30d40b120cf11a0e59cfc12a1169",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMI.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMI.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1550496510326,
+            "changeTime": 1550514432738,
+            "contentHash": "efbb26cf54d4b4e02824fe2a7d72db8fae58bfb4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMI.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMI.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1550496510328,
+            "changeTime": 1550514432745,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMI.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMI.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12,
+            "modifiedTime": 1550496510329,
+            "changeTime": 1550514432766,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMI.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMI.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1550496510332,
+            "changeTime": 1550514432773,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMIController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMIController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 78,
+            "modifiedTime": 1550496510334,
+            "changeTime": 1550514432777,
+            "contentHash": "39f2930ce9aefdf062e6949dad1971ed2f0a1c7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMIHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMIHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550496510335,
+            "changeTime": 1550514432782,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMIRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMI\\BMIRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1550496510337,
+            "changeTime": 1550514432790,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510044536,
+            "changeTime": 1550514432863,
+            "contentHash": "2fdd5a496d2b5e1906f70b46abda3c7507e612e7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlert.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlert.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1550496510339,
+            "changeTime": 1550514432802,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlert.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlert.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 285,
+            "modifiedTime": 1550496510341,
+            "changeTime": 1550514432807,
+            "contentHash": "f0e62fe9240eb1fb6863f79b31f2bce8978343d3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlert.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlert.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 245,
+            "modifiedTime": 1550496510343,
+            "changeTime": 1550514432811,
+            "contentHash": "17b1a3b5aefa19b9949603d793ec89210268614e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlert.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlert.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12,
+            "modifiedTime": 1550496510346,
+            "changeTime": 1550514432817,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlert.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlert.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1550496510349,
+            "changeTime": 1550514432822,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlert.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlert.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1550496510351,
+            "changeTime": 1550514432828,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlertController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlertController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1550496510352,
+            "changeTime": 1550514432833,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlertHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlertHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550496510354,
+            "changeTime": 1550514432841,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlertRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIAlert\\BMIAlertRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1550496510355,
+            "changeTime": 1550514432852,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIApplicationEvent",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIApplicationEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510044592,
+            "changeTime": 1550514432877,
+            "contentHash": "6e2a81e76c26bb2f28f3a4e96155476f67121821",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIApplicationEvent\\BMIApplicationEvent.evt",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIApplicationEvent\\BMIApplicationEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 126,
+            "modifiedTime": 1550496510358,
+            "changeTime": 1550514432870,
+            "contentHash": "45583d17e5c1423c3f9f1f3f20a413c4d3978736",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIApplicationEvent\\BMIApplicationEvent.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIApplicationEvent\\BMIApplicationEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 252,
+            "modifiedTime": 1550496510359,
+            "changeTime": 1550514432874,
+            "contentHash": "20df6d7a3287b4cd05ef17a7d73001a90644b294",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIComponentEvent",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIComponentEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510044645,
+            "changeTime": 1550514432891,
+            "contentHash": "4d95503567db8644acde7894c292a8a832d962fe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIComponentEvent\\BMIComponentEvent.evt",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIComponentEvent\\BMIComponentEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 127,
+            "modifiedTime": 1550496510362,
+            "changeTime": 1550514432885,
+            "contentHash": "c709c502297fce0572d9f8b0fcbfbce088d80023",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIComponentEvent\\BMIComponentEvent.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIComponentEvent\\BMIComponentEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 250,
+            "modifiedTime": 1550496510364,
+            "changeTime": 1550514432888,
+            "contentHash": "78aa7c1042d565da06b22202584e022c5dd85cf1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510044851,
+            "changeTime": 1550514432934,
+            "contentHash": "b65474c5a950022ed913b45caf5c992d12227b73",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1550496510369,
+            "changeTime": 1550514432896,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1405,
+            "modifiedTime": 1550524070193,
+            "changeTime": 1550524070193,
+            "contentHash": "d87acf30948c39da0bce7448140e1e7a918172e7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 244,
+            "modifiedTime": 1550496510372,
+            "changeTime": 1550514432906,
+            "contentHash": "91ef0079569817ed59b1f1e10e57e017e56334b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 427,
+            "modifiedTime": 1550496510374,
+            "changeTime": 1550514432909,
+            "contentHash": "488892bf73860461cf9c33d42be3b16e7adb6f68",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1550496510376,
+            "changeTime": 1550514432915,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1550496510378,
+            "changeTime": 1550514432918,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIFormController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIFormController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 306,
+            "modifiedTime": 1550496510379,
+            "changeTime": 1550514432923,
+            "contentHash": "627d5b4642be9ee1c6ffcd692d78e6b2f463a1ad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIFormHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIFormHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1543,
+            "modifiedTime": 1550505530888,
+            "changeTime": 1550514432927,
+            "contentHash": "cb9cd9718e7e779d4f899591d72a3e52f8f3bb3a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIFormRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIForm\\BMIFormRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1550496510383,
+            "changeTime": 1550514432930,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510045083,
+            "changeTime": 1550514432977,
+            "contentHash": "17d6a21e17e7cd7c91f31e2265e9af20dda3caae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITable.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITable.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1550496510386,
+            "changeTime": 1550514432938,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITable.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITable.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1790,
+            "modifiedTime": 1550500814535,
+            "changeTime": 1550514432941,
+            "contentHash": "6b41921aa391fbf3b8421c1165549bad66c8b26b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITable.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITable.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 245,
+            "modifiedTime": 1550496510390,
+            "changeTime": 1550514432947,
+            "contentHash": "b1eb4a31b9816d86e803af4c8bb2eda17e1213cb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITable.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITable.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 72,
+            "modifiedTime": 1550496510391,
+            "changeTime": 1550514432951,
+            "contentHash": "e7f0dcf4bce0a664135e90daf6936d7a93bf137c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITable.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITable.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1550496510393,
+            "changeTime": 1550514432953,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITable.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITable.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1550496510394,
+            "changeTime": 1550514432959,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITableController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITableController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 312,
+            "modifiedTime": 1550496510396,
+            "changeTime": 1550514432963,
+            "contentHash": "b5a2d218eaad87041e55a8d0cf45fefce901baa4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITableHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITableHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 374,
+            "modifiedTime": 1550496510398,
+            "changeTime": 1550514432967,
+            "contentHash": "6ecc3b13b0631dca8f88e60a5b86d83cc56a3f31",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITableRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMITable\\BMITableRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1550496510402,
+            "changeTime": 1550514432970,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510045341,
+            "changeTime": 1550514433020,
+            "contentHash": "a2cd581c47d829e4a133fde0cadd6e7a02b5e01e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapper.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapper.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1550496510404,
+            "changeTime": 1550514432984,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapper.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapper.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 701,
+            "modifiedTime": 1550496510406,
+            "changeTime": 1550514432990,
+            "contentHash": "626a28a8c92b0e4267fe69ccc6fa4bbdd4c6b462",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapper.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapper.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1550496510411,
+            "changeTime": 1550514432996,
+            "contentHash": "5cb5cee89ac78216a98436f5b84c3a953777ed1b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapper.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapper.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12,
+            "modifiedTime": 1550496510413,
+            "changeTime": 1550514433002,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapper.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapper.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1550496510414,
+            "changeTime": 1550514433005,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapper.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapper.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1550496510417,
+            "changeTime": 1550514433008,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapperController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapperController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 141,
+            "modifiedTime": 1550496510419,
+            "changeTime": 1550514433011,
+            "contentHash": "e08978e7297a2edaa6af382d2a15ccb6bffcf6a0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapperHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapperHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550496510420,
+            "changeTime": 1550514433015,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapperRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\BMIWrapper\\BMIWrapperRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1550496510422,
+            "changeTime": 1550514433017,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\cmpEvent",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\cmpEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510045402,
+            "changeTime": 1550514433027,
+            "contentHash": "9b0b53c4f3e631d81a3fe10dd9de4a2232d7733e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\cmpEvent\\cmpEvent.evt",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\cmpEvent\\cmpEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 30,
+            "modifiedTime": 1550496510430,
+            "changeTime": 1550514433023,
+            "contentHash": "150543e1a1ed3d44385149b77a76d42826a8d88d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\cmpEvent\\cmpEvent.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\cmpEvent\\cmpEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1550496510433,
+            "changeTime": 1550514433025,
+            "contentHash": "d58c016c49b2a64fee493e860523badd017ebd63",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\ComponentEventPlaygroundApp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\ComponentEventPlaygroundApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510045475,
+            "changeTime": 1550514433036,
+            "contentHash": "3f4f3588695e2024f3472991569a3fa52724bf34",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\ComponentEventPlaygroundApp\\ComponentEventPlaygroundApp.app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\ComponentEventPlaygroundApp\\ComponentEventPlaygroundApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 690,
+            "modifiedTime": 1550496510425,
+            "changeTime": 1550514433031,
+            "contentHash": "4529762aef6e9716bd475e92ec37d6a79399bc65",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\ComponentEventPlaygroundApp\\ComponentEventPlaygroundApp.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\ComponentEventPlaygroundApp\\ComponentEventPlaygroundApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1550496510428,
+            "changeTime": 1550514433034,
+            "contentHash": "d58c016c49b2a64fee493e860523badd017ebd63",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\container",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\container",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510045582,
+            "changeTime": 1550514433050,
+            "contentHash": "1cf6030a46cda700a3d00410d329f3904272e984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\container\\container.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\container\\container.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1740,
+            "modifiedTime": 1550496510436,
+            "changeTime": 1550514433040,
+            "contentHash": "7fa330d9292fe68feac6ebb211668e92ace19611",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\container\\container.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\container\\container.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1550496510438,
+            "changeTime": 1550514433042,
+            "contentHash": "d58c016c49b2a64fee493e860523badd017ebd63",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\container\\containerController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\container\\containerController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 380,
+            "modifiedTime": 1550496510440,
+            "changeTime": 1550514433045,
+            "contentHash": "8ecdbfcef6fc06b9b90a6103a365789c4dc9eabb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\container\\containerHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\container\\containerHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1078,
+            "modifiedTime": 1550496510441,
+            "changeTime": 1550514433048,
+            "contentHash": "bff54461adf267b2239f7ee99785433e9d956b83",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\eventEmitter",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\eventEmitter",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510045679,
+            "changeTime": 1550514433067,
+            "contentHash": "6db811c1cf150cf2ea9618cf85305783b84f45c6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\eventEmitter\\eventEmitter.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\eventEmitter\\eventEmitter.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1904,
+            "modifiedTime": 1550496510444,
+            "changeTime": 1550514433053,
+            "contentHash": "52d8179cc862ae0480d78cbcb1348d87f4083423",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\eventEmitter\\eventEmitter.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\eventEmitter\\eventEmitter.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1550496510446,
+            "changeTime": 1550514433056,
+            "contentHash": "d58c016c49b2a64fee493e860523badd017ebd63",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\eventEmitter\\eventEmitterController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\eventEmitter\\eventEmitterController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 620,
+            "modifiedTime": 1550496510448,
+            "changeTime": 1550514433059,
+            "contentHash": "ac7334f60b509a6f64ca2bf5d46f1b56f91e037e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\eventEmitter\\eventEmitterHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\eventEmitter\\eventEmitterHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1078,
+            "modifiedTime": 1550496510451,
+            "changeTime": 1550514433062,
+            "contentHash": "bff54461adf267b2239f7ee99785433e9d956b83",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510045879,
+            "changeTime": 1550514433110,
+            "contentHash": "f5bd3af96eaa1e214ea3612340edae79203f80f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworld.app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworld.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 101,
+            "modifiedTime": 1550496510453,
+            "changeTime": 1550514433077,
+            "contentHash": "2aa383069d9a03a2120b52f88cce9ae58ef4037a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworld.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworld.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 249,
+            "modifiedTime": 1550496510455,
+            "changeTime": 1550514433085,
+            "contentHash": "819a071f06dfe7c2f435e830f06de301c041a123",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworld.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworld.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1550496510457,
+            "changeTime": 1550514433089,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworld.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworld.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12,
+            "modifiedTime": 1550496510458,
+            "changeTime": 1550514433093,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworld.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworld.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1550496510460,
+            "changeTime": 1550514433097,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworldController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworldController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1550496510462,
+            "changeTime": 1550514433101,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworldHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworldHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550496510463,
+            "changeTime": 1550514433104,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworldRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\helloworld\\helloworldRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1550496510466,
+            "changeTime": 1550514433107,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\owner",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\owner",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510045994,
+            "changeTime": 1550514433124,
+            "contentHash": "9142e2939832b89bc22a8e8bf125802c57745e4a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\owner\\owner.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\owner\\owner.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1697,
+            "modifiedTime": 1550496510468,
+            "changeTime": 1550514433114,
+            "contentHash": "c1e5d8e8e97d252bbc381a99f9304802b2118449",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\owner\\owner.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\owner\\owner.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1550496510470,
+            "changeTime": 1550514433117,
+            "contentHash": "d58c016c49b2a64fee493e860523badd017ebd63",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\owner\\ownerController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\owner\\ownerController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 380,
+            "modifiedTime": 1550496510472,
+            "changeTime": 1550514433119,
+            "contentHash": "8ecdbfcef6fc06b9b90a6103a365789c4dc9eabb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\owner\\ownerHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\aura\\owner\\ownerHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1078,
+            "modifiedTime": 1550496510474,
+            "changeTime": 1550514433122,
+            "contentHash": "bff54461adf267b2239f7ee99785433e9d956b83",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510111456,
+            "changeTime": 1550514433140,
+            "contentHash": "d4c3b8d08b73f958d861a6084a19d74c435b62c9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\classes\\AccountContactController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\classes\\AccountContactController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1041,
+            "modifiedTime": 1550496510476,
+            "changeTime": 1550514433130,
+            "contentHash": "904fa74fffb4e9f4f937396a8148712e6dd55c07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\classes\\AccountContactController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\classes\\AccountContactController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1550496510478,
+            "changeTime": 1550514433133,
+            "contentHash": "75a1f28720b3049a869db0f64665062eaa9d3f79",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\classes\\BMIController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\classes\\BMIController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 492,
+            "modifiedTime": 1550496510480,
+            "changeTime": 1550514433135,
+            "contentHash": "476a1b45827124def5144551f19fb4e9eaddc375",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\classes\\BMIController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\classes\\BMIController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1550496510481,
+            "changeTime": 1550514433137,
+            "contentHash": "66b71449f3cf513769f17a1e45ee1e0270aa9324",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510111497,
+            "changeTime": 1550514433145,
+            "contentHash": "dcc7d7ac14085aa855762d2a0fb41e41571fc1f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\layouts\\BMI__c-BMI Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\layouts\\BMI__c-BMI Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2419,
+            "modifiedTime": 1550496510484,
+            "changeTime": 1550514433142,
+            "contentHash": "a19b2fd3d000be2f3f42431e057863c65b0f4372",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510009089,
+            "changeTime": 1550514433154,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510111511,
+            "changeTime": 1550514433180,
+            "contentHash": "d0f724b8940e127032fe0891c275ebc7523bcff9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510111625,
+            "changeTime": 1550514433177,
+            "contentHash": "73e988ea70363f4bf27f792125011957d2b91c79",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c\\BMI__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c\\BMI__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2167,
+            "modifiedTime": 1550496510488,
+            "changeTime": 1550514433158,
+            "contentHash": "1864f2b728607acf10a8b90aca5535285d111961",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510111618,
+            "changeTime": 1550514433169,
+            "contentHash": "25ebacef91a504a7f618a79bdc4d0f957ef96999",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c\\fields\\BMI__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c\\fields\\BMI__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 391,
+            "modifiedTime": 1550496510490,
+            "changeTime": 1550514433161,
+            "contentHash": "ce44756f6dc3fa0a15abdfa3ce30dff1ce5c16c3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c\\fields\\Height__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c\\fields\\Height__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 397,
+            "modifiedTime": 1550496510492,
+            "changeTime": 1550514433164,
+            "contentHash": "55fb77ce6354d1e8f526c8477f022e51b197cf42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c\\fields\\Weight__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c\\fields\\Weight__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 397,
+            "modifiedTime": 1550496510494,
+            "changeTime": 1550514433167,
+            "contentHash": "3f47ad4ae59ff7d6746c149260a355f209431a16",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510111652,
+            "changeTime": 1550514433174,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\objects\\BMI__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1550496510496,
+            "changeTime": 1550514433172,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510111834,
+            "changeTime": 1550514433206,
+            "contentHash": "3f209756ea4e0568e76030f3e320a53bea41a997",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\Lightning_Bootcamp.page",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\Lightning_Bootcamp.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6805,
+            "modifiedTime": 1550496510500,
+            "changeTime": 1550514433183,
+            "contentHash": "4c4cc0e061191d86958b1a870d7ccfbddf261203",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\Lightning_Bootcamp.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\Lightning_Bootcamp.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 460,
+            "modifiedTime": 1550496510502,
+            "changeTime": 1550514433186,
+            "contentHash": "05bb5a398cc017b12103b7adf410ef05c5b3e6c9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\NewAccount.page",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\NewAccount.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1706,
+            "modifiedTime": 1550496510504,
+            "changeTime": 1550514433189,
+            "contentHash": "7986a53acc1b770d310d0bba958a84ffefb34b94",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\NewAccount.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\NewAccount.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 509,
+            "modifiedTime": 1550496510506,
+            "changeTime": 1550514433191,
+            "contentHash": "62dbdfec234b41209adef95d08b618ab8585cba3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\NewAccountDS.page",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\NewAccountDS.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 7950,
+            "modifiedTime": 1550496510507,
+            "changeTime": 1550514433195,
+            "contentHash": "4b90ec6ed77f2c35de1d486b0a58e479cb6f93fc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\NewAccountDS.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\NewAccountDS.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 454,
+            "modifiedTime": 1550496510509,
+            "changeTime": 1550514433198,
+            "contentHash": "ac6e9e73d6c3cdcb2c37cb2e9b79f15a3b4d31ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\NewAccountLS.page",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\NewAccountLS.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1966,
+            "modifiedTime": 1550496510511,
+            "changeTime": 1550514433201,
+            "contentHash": "d1878b0f8525ec086f9bfa60247dc2903c51f6ae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\NewAccountLS.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\pages\\NewAccountLS.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 538,
+            "modifiedTime": 1550496510512,
+            "changeTime": 1550514433204,
+            "contentHash": "34f5645c276add5c31e743cad58cbaf0632df81f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510111898,
+            "changeTime": 1550514433220,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20851,
+            "modifiedTime": 1550496510516,
+            "changeTime": 1550514433210,
+            "contentHash": "24abf6564512fbcbc4f5b80b0fc5dcf12c2284b3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5895,
+            "modifiedTime": 1550496510518,
+            "changeTime": 1550514433213,
+            "contentHash": "a34be6d7eb301a132bd8347af3b49190a02a6667",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5895,
+            "modifiedTime": 1550496510520,
+            "changeTime": 1550514433216,
+            "contentHash": "a34be6d7eb301a132bd8347af3b49190a02a6667",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6245,
+            "modifiedTime": 1550496510522,
+            "changeTime": 1550514433218,
+            "contentHash": "0429102ff90ffb1ab6514e07e039399718bccc92",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\settings",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510111922,
+            "changeTime": 1550514433225,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6570,
+            "modifiedTime": 1550496510524,
+            "changeTime": 1550514433224,
+            "contentHash": "b124325d9b44a8cc8f341b139573c40b32d482d7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510111946,
+            "changeTime": 1550514433231,
+            "contentHash": "83ead065e418289cd25a0895edab312d3fde782e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\tabs\\BMI__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice\\force-app\\main\\default\\tabs\\BMI__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1550496510527,
+            "changeTime": 1550514433228,
+            "contentHash": "7f56b41b4e2dc79f779b44188c079902a12da1f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\SFDX_-Bootcamp\\SFDX_Bootcamp exersice",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550510452107,
+            "changeTime": 1550510452107,
+            "contentHash": "dead7635d29e5ca7e929b6d4c3ab72474b017d46",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
